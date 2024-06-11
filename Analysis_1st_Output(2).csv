@@ -1,0 +1,1058 @@
+product_type,attributes,Stream,cum_weightage,sa_name,completeness_weight,UMP,Seller - Required vs Optional
+WALLET,material,"'Refinement', 'FAQ', 'DPMO', 'Customer_Search'",1.0,material,8,rac,Required
+INCONTINENCE_PROTECTOR,material,"'Refinement', 'FAQ', 'DPMO', 'Customer_Search'",1.0,material,4,UMP,Required
+CHARGING_ADAPTER,brand,"'FAQ', 'DPMO', 'Customer_Search'",0.8,brand,8,UMP,Required
+WEARABLE_COMPUTER,connectivity_technology,"'Refinement', 'FAQ', 'DPMO'",0.8,connectivity_technology,4,rac,Required
+SKIN_MOISTURIZER,brand,"'FAQ', 'DPMO', 'Customer_Search'",0.8,brand,8,UMP,Required
+LAUNDRY_DETERGENT,brand,"'FAQ', 'DPMO', 'Customer_Search'",0.8,brand,8,UMP,Required
+INCONTINENCE_PROTECTOR,brand,"'FAQ', 'DPMO', 'Customer_Search'",0.8,brand,8,UMP,Required
+ELECTRONIC_CABLE,brand,"'FAQ', 'DPMO', 'Customer_Search'",0.8,brand,8,UMP,Required
+CHARGING_ADAPTER,wattage,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,wattage,4,UMP,Optional
+BLANK_BOOK,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+PORTABLE_ELECTRONIC_DEVICE_COVER,special_feature,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,special_feature,4,rac,Optional
+SKIN_CLEANING_AGENT,product_benefit,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,product_benefit,4,rac,Required
+PANTS,fit_type,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,fit_type,8,rac,Required
+TABLETOP_GAME,theme,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,theme,8,UMP,Optional
+NON_RIDING_TOY_VEHICLE,power_source_type,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,power_source_type,4,UMP,Optional
+MASSAGER,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+PUZZLES,number_of_pieces,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,number_of_pieces,8,rac,Optional
+SUNSCREEN,active_ingredients,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,active_ingredients,4,UMP,Optional
+LIGHT_BULB,special_feature,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,special_feature,8,UMP,Required
+SKIN_CLEANING_AGENT,skin_type,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,skin_type,8,rac,Required
+HEADPHONES,bluetooth_version,"'DPMO', 'Customer_Search'",0.6000000000000001,bluetooth_version,4,UMP,Optional
+SUNSCREEN,product_benefit,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,product_benefit,8,UMP,Required
+PERSONAL_FRAGRANCE,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+MASSAGER,special_feature,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,special_feature,4,UMP,Optional
+SKIN_MOISTURIZER,skin_type,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,skin_type,4,rac,Required
+WALLET,wallet_compartment_type,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,wallet_compartment_type,4,UMP,Required
+BOTTLE,material,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,material,8,rac,Required
+CLEANING_AGENT,special_feature,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,special_feature,4,UMP,Optional
+SKIN_CLEANING_AGENT,target_use_body_part,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,target_use_body_part,4,UMP,Optional
+MASSAGER,specific_uses_for_product,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,specific_uses_for_product,4,UMP,Optional
+SUNSCREEN,skin_type,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,skin_type,4,rac,Required
+NON_RIDING_TOY_VEHICLE,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+CHARGING_ADAPTER,compatible_devices,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,compatible_devices,8,rac,Optional
+HAIR_DRYER,material,"'FAQ', 'DPMO'",0.6000000000000001,material,8,UMP,Required
+PORTABLE_ELECTRONIC_DEVICE_COVER,compatible_device_size_maximum,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,compatible_device_size_maximum,4,UMP,Optional
+STRING_LIGHT,special_feature,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,special_feature,8,UMP,Optional
+NUT_AND_SEED,item_form,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,item_form,4,rac,Required
+LIGHT_BULB,wattage,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,wattage,8,mac,Optional
+TOWEL,special_feature,"'Refinement', 'DPMO'",0.6000000000000001,special_feature,4,UMP,Optional
+PORTABLE_ELECTRONIC_DEVICE_COVER,form_factor,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,form_factor,8,rac,Optional
+WRITING_INSTRUMENT,material,"'DPMO', 'Customer_Search'",0.6000000000000001,material,8,rac,Required
+NUT_AND_SEED,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+TOYS_AND_GAMES,color,"'Refinement', 'DPMO'",0.6000000000000001,color,4,rac,Required
+HAIR_STYLING_AGENT,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,4,UMP,Required
+SHIRT,color,"'Refinement', 'DPMO'",0.6000000000000001,color,8,rac,Required
+WRITING_INSTRUMENT,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+TOWEL,color,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,color,8,rac,Required
+HAIR_TRIMMER,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,4,UMP,Required
+COOKIE,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,4,UMP,Required
+EDIBLE_OIL_VEGETABLE,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+TOWEL,fabric_weight,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,fabric_weight,4,UMP,Optional
+BLANK_BOOK,pages,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,pages,8,UMP,Optional
+SHAMPOO,brand,"'DPMO', 'Customer_Search'",0.6000000000000001,brand,8,UMP,Required
+SHAMPOO,product_benefit,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,product_benefit,4,rac,Required
+BLANK_BOOK,paper_size,"'Refinement', 'FAQ', 'Customer_Search'",0.6000000000000001,paper_size,8,UMP,Required
+CHARGING_ADAPTER, compatible_phone_models,"'DPMO', 'Customer_Search'",0.6000000000000001,,,,
+HERB,specialty,"'FAQ', 'Customer_Search'",0.4,specialty,4,UMP,Optional
+DRINKING_CUP,color,"'Refinement', 'Customer_Search'",0.4,color,8,rac,Required
+STRING_LIGHT,style,"'Refinement', 'Customer_Search'",0.4,style,4,UMP,Required
+INCONTINENCE_PROTECTOR,age_range_description,"'FAQ', 'Customer_Search'",0.4,age_range_description,4,rac,Optional
+DRINKING_CUP,care_instructions,"'Refinement', 'FAQ'",0.4,care_instructions,4,rac,Required
+HERB,variety,"'FAQ', 'Customer_Search'",0.4,variety,8,UMP,Optional
+DRINKING_CUP,capacity,"'FAQ', 'Customer_Search'",0.4,capacity,8,rac,Required
+STRING_LIGHT,theme,"'Refinement', 'Customer_Search'",0.4,theme,4,UMP,Optional
+COOKIE,ingredients,"'FAQ', 'Customer_Search'",0.4,ingredients,8,UMP,Required
+DRINKING_CUP,material_feature,"'Refinement', 'FAQ'",0.4,material_feature,4,UMP,Optional
+DRINKING_CUP,occasion_type,"'Refinement', 'Customer_Search'",0.4,occasion_type,4,UMP,Optional
+HERB,produce_classification,"'FAQ', 'Customer_Search'",0.4,produce_classification,4,UMP,Optional
+DRINKING_CUP,material,"'Refinement', 'Customer_Search'",0.4,material,8,rac,Required
+NUT_AND_SEED,item_weight,"'FAQ', 'Customer_Search'",0.4,item_weight,8,UMP,Required
+SUNSCREEN,scent,"'FAQ', 'Customer_Search'",0.4,scent,8,UMP,Required
+CHARGING_ADAPTER,connector_type,"'Refinement', 'Customer_Search'",0.4,connector_type,8,rac,Optional
+CELLULAR_PHONE_CASE,compatible_phone_models,"'Refinement', 'Customer_Search'",0.4,compatible_phone_models,8,rac,Required
+TOWEL,style,"'Refinement', 'Customer_Search'",0.4,style,4,UMP,Required
+CELLULAR_PHONE_CASE,form_factor,"'FAQ', 'Customer_Search'",0.4,form_factor,8,rac,Required
+CELLULAR_PHONE_CASE,material,"'Refinement', 'FAQ'",0.4,material,8,rac,Required
+TOWEL,number_of_items,"'Refinement', 'FAQ'",0.4,number_of_items,4,rac,Required
+TOWEL,material,"'Refinement', 'Customer_Search'",0.4,material,8,rac,Required
+CELLULAR_PHONE_CASE,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,8,rac,Optional
+INSECT_REPELLENT,number_of_items,"'FAQ', 'Customer_Search'",0.4,number_of_items,4,UMP,Required
+TOWEL,item_length_width,"'FAQ', 'Customer_Search'",0.4,item_length_width,8,UMP,Required
+CHARGING_ADAPTER, connector_type,"'FAQ', 'Customer_Search'",0.4,,,,
+INSECT_REPELLENT,directions,"'FAQ', 'Customer_Search'",0.4,directions,8,UMP,Optional
+CHARGING_ADAPTER,compatible_phone_models,"'FAQ', 'Customer_Search'",0.4,compatible_phone_models,8,UMP,Optional
+CHARGING_ADAPTER,connectivity_technology,'DPMO',0.4,connectivity_technology,8,UMP,Optional
+TABLETOP_GAME,subject_character,"'FAQ', 'Customer_Search'",0.4,subject_character,4,UMP,Optional
+INCONTINENCE_PROTECTOR,incontinence_protector_type,"'FAQ', 'Customer_Search'",0.4,incontinence_protector_type,8,UMP,Optional
+CHARGING_ADAPTER,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,8,rac,Optional
+TABLETOP_GAME,number_of_players,"'FAQ', 'Customer_Search'",0.4,number_of_players,8,UMP,Optional
+TABLETOP_GAME,material,"'FAQ', 'Customer_Search'",0.4,material,8,rac,Required
+CLEANING_AGENT,item_form,"'Refinement', 'Customer_Search'",0.4,item_form,8,rac,Required
+TABLETOP_GAME,item_length_width,"'FAQ', 'Customer_Search'",0.4,item_length_width,4,UMP,Required
+DRINKING_CUP,recommended_uses_for_product,"'Refinement', 'FAQ'",0.4,recommended_uses_for_product,8,UMP,Optional
+INCONTINENCE_PROTECTOR,size,"'FAQ', 'Customer_Search'",0.4,size,4,rac,Required
+INCONTINENCE_PROTECTOR,reusability,"'Refinement', 'FAQ'",0.4,reusability,4,rac,Optional
+TABLETOP_GAME,age_range_description,"'Refinement', 'Customer_Search'",0.4,age_range_description,8,mac,Optional
+INCONTINENCE_PROTECTOR,number_of_items,"'Refinement', 'FAQ'",0.4,number_of_items,8,mac,Required
+CLEANING_AGENT,scent,"'Refinement', 'Customer_Search'",0.4,scent,8,rac,Required
+CLEANING_AGENT,specific_uses_for_product,"'FAQ', 'Customer_Search'",0.4,specific_uses_for_product,8,rac,Optional
+CLEANING_AGENT,surface_recommendation,"'Refinement', 'Customer_Search'",0.4,surface_recommendation,4,rac,Optional
+INCONTINENCE_PROTECTOR,target_gender,"'Refinement', 'Customer_Search'",0.4,target_gender,8,rac,Optional
+EDIBLE_OIL_VEGETABLE,product_shelf_life,"'FAQ', 'Customer_Search'",0.4,product_shelf_life,4,UMP,Optional
+HERB,item_form,"'FAQ', 'Customer_Search'",0.4,item_form,8,rac,Required
+FOOD_STORAGE_CONTAINER,recommended_uses_for_product,"'Refinement', 'Customer_Search'",0.4,recommended_uses_for_product,4,rac,Optional
+HEADPHONES,connectivity_technology,"'Refinement', 'Customer_Search'",0.4,connectivity_technology,8,rac,Required
+SKIN_CLEANING_AGENT,material_type_free,"'Refinement', 'FAQ'",0.4,material_type_free,8,UMP,Optional
+SCREEN_PROTECTOR,item_hardness,"'FAQ', 'Customer_Search'",0.4,item_hardness,8,rac,Optional
+SKIN_CLEANING_AGENT,item_form,"'Refinement', 'Customer_Search'",0.4,item_form,8,rac,Required
+SCREEN_PROTECTOR,material,"'FAQ', 'Customer_Search'",0.4,material,8,rac,Required
+FRUIT,ingredients,"'FAQ', 'Customer_Search'",0.4,ingredients,8,UMP,Required
+SKIN_CLEANING_AGENT, product_benefit,"'FAQ', 'Customer_Search'",0.4,,,,
+SHOES,sport_type,"'FAQ', 'Customer_Search'",0.4,sport_type,4,UMP,Optional
+SCREEN_PROTECTOR,special_feature,"'FAQ', 'Customer_Search'",0.4,special_feature,4,mac,Optional
+FRUIT,specialty,"'FAQ', 'Customer_Search'",0.4,specialty,4,rac,Optional
+SHOES,outer_material,"'FAQ', 'Customer_Search'",0.4,,,,
+SHOES,heel_height,"'Refinement', 'FAQ'",0.4,,,,
+SHOES,footwear_size,"'Refinement', 'FAQ'",0.4,footwear_size,8,rac,Required
+SHOES,color,"'Refinement', 'Customer_Search'",0.4,color,8,rac,Required
+HAIR_DRYER, brand,'DPMO',0.4,,,,
+SHOES,brand,"'FAQ', 'Customer_Search'",0.4,brand,8,UMP,Required
+SHAMPOO,material_type_free,"'Refinement', 'FAQ'",0.4,material_type_free,4,UMP,Optional
+HAIR_TRIMMER,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,4,UMP,Optional
+HAIR_TRIMMER,recommended_uses_for_product,"'Refinement', 'FAQ'",0.4,recommended_uses_for_product,8,rac,Optional
+HAIR_TRIMMER,power_source_type,"'FAQ', 'Customer_Search'",0.4,power_source_type,4,rac,Optional
+SHAMPOO,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,4,UMP,Optional
+SHIRT,fabric_type,"'FAQ', 'Customer_Search'",0.4,fabric_type,8,mac,Required
+HAIR_STYLING_AGENT, product_benefit,"'FAQ', 'Customer_Search'",0.4,,,,
+HAIR_STYLING_AGENT,hair_type,"'FAQ', 'Customer_Search'",0.4,hair_type,8,rac,Required
+HAIR_STYLING_AGENT,ingredients,"'FAQ', 'Customer_Search'",0.4,ingredients,4,UMP,Optional
+HAIR_STYLING_AGENT,item_form,"'Refinement', 'Customer_Search'",0.4,item_form,4,rac,Required
+HAIR_STYLING_AGENT,material_type_free,"'Refinement', 'FAQ'",0.4,material_type_free,8,UMP,Optional
+HAIR_STYLING_AGENT,number_of_items,"'Refinement', 'FAQ'",0.4,number_of_items,4,mac,Required
+HAIR_STYLING_AGENT,product_benefit,"'Refinement', 'Customer_Search'",0.4,product_benefit,8,rac,Required
+FOOD_STORAGE_CONTAINER,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,4,rac,Optional
+SKIN_CLEANING_AGENT,scent,"'Refinement', 'FAQ'",0.4,scent,8,mac,Required
+DRINKING_CUP,specific_uses_for_product,"'FAQ', 'Customer_Search'",0.4,specific_uses_for_product,4,UMP,Optional
+FOOD_STORAGE_CONTAINER,material_feature,"'Refinement', 'FAQ'",0.4,material_feature,8,UMP,Optional
+STRING_LIGHT,power_source_type,"'FAQ', 'Customer_Search'",0.4,power_source_type,8,rac,Optional
+STRING_LIGHT,light_source_type,"'Refinement', 'Customer_Search'",0.4,,,,
+EDIBLE_OIL_VEGETABLE,container_material,"'FAQ', 'Customer_Search'",0.4,,,,
+STRING_LIGHT,light_color,"'Refinement', 'Customer_Search'",0.4,light_color,8,UMP,Optional
+STRING_LIGHT,indoor_outdoor_usage,"'FAQ', 'Customer_Search'",0.4,indoor_outdoor_usage,8,UMP,Optional
+PUZZLES,age_range_description,"'FAQ', 'Customer_Search'",0.4,age_range_description,4,mac,Optional
+STRING_LIGHT,connectivity_technology,"'Refinement', 'Customer_Search'",0.4,connectivity_technology,4,UMP,Optional
+HERB,brand,"'FAQ', 'Customer_Search'",0.4,brand,8,UMP,Required
+PUZZLES,brand,"'FAQ', 'Customer_Search'",0.4,brand,8,UMP,Required
+SKIN_MOISTURIZER,special_ingredients,"'FAQ', 'Customer_Search'",0.4,special_ingredients,4,UMP,Optional
+ELECTRONIC_CABLE,cable_length,"'Refinement', 'Customer_Search'",0.4,,,,
+ELECTRONIC_CABLE,cable_type,"'Refinement', 'Customer_Search'",0.4,,,,
+ELECTRONIC_CABLE,compatible_devices,"'FAQ', 'Customer_Search'",0.4,compatible_devices,8,rac,Optional
+ELECTRONIC_CABLE,connector_type,"'FAQ', 'Customer_Search'",0.4,connector_type,8,rac,Required
+PUZZLES,material,"'FAQ', 'Customer_Search'",0.4,material,4,rac,Required
+SKIN_MOISTURIZER,product_benefit,"'Refinement', 'Customer_Search'",0.4,product_benefit,4,rac,Required
+PUZZLES,puzzle_type,"'FAQ', 'Customer_Search'",0.4,puzzle_type,8,UMP,Optional
+SCREEN_PROTECTOR,brand,"'FAQ', 'Customer_Search'",0.4,brand,8,UMP,Required
+SKIN_MOISTURIZER,active_ingredients,"'Refinement', 'FAQ'",0.4,active_ingredients,8,UMP,Optional
+HEADPHONES,headphones_form_factor,"'Refinement', 'Customer_Search'",0.4,headphones_form_factor,8,rac,Required
+SCREEN_PROTECTOR,compatible_devices,"'FAQ', 'Customer_Search'",0.4,compatible_devices,8,rac,Required
+SKIN_CLEANING_AGENT,unit_count,"'Refinement', 'FAQ'",0.4,unit_count,4,UMP,Required
+SKIN_CLEANING_AGENT,target_gender,"'FAQ', 'Customer_Search'",0.4,target_gender,8,rac,Optional
+FOOD_STORAGE_CONTAINER,closure_type,"'Refinement', 'FAQ'",0.4,,,,
+SKIN_CLEANING_AGENT,special_ingredients,"'Refinement', 'FAQ'",0.4,special_ingredients,4,UMP,Optional
+SKIN_CLEANING_AGENT,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,4,UMP,Optional
+FOOD_STORAGE_CONTAINER,container_type,"'Refinement', 'Customer_Search'",0.4,,,,
+FOOD_STORAGE_CONTAINER,item_length_width_height,"'FAQ', 'Customer_Search'",0.4,item_length_width_height,4,UMP,Required
+FOOD_STORAGE_CONTAINER,material,"'Refinement', 'Customer_Search'",0.4,material,8,rac,Required
+CELLULAR_PHONE_CASE,color,"'Refinement', 'FAQ'",0.4,color,8,rac,Required
+TOWEL,brand,'DPMO',0.4,brand,8,UMP,Required
+HAIR_STYLING_AGENT,scent,"'FAQ', 'Customer_Search'",0.4,scent,4,UMP,Required
+BOTTLE,capacity,"'FAQ', 'Customer_Search'",0.4,capacity,8,rac,Required
+PANTS,bottoms_size,"'FAQ', 'Customer_Search'",0.4,bottoms_size,8,UMP,Required
+PESTICIDE,active_ingredients,"'FAQ', 'Customer_Search'",0.4,active_ingredients,4,UMP,Optional
+PESTICIDE,item_form,"'FAQ', 'Customer_Search'",0.4,item_form,8,rac,Required
+TOY_FIGURE,material,"'Refinement', 'FAQ'",0.4,material,8,rac,Required
+LIGHT_BULB,color_temperature,"'Refinement', 'FAQ'",0.4,color_temperature,4,rac,Optional
+BOTTLE,bottle_type,"'FAQ', 'Customer_Search'",0.4,bottle_type,8,UMP,Optional
+BALLOON,color,"'Refinement', 'Customer_Search'",0.4,color,8,rac,Required
+PERSONAL_FRAGRANCE,fragrance_concentration,"'FAQ', 'Customer_Search'",0.4,fragrance_concentration,4,UMP,Optional
+BOTTLE,care_instructions,"'Refinement', 'FAQ'",0.4,care_instructions,4,UMP,Optional
+WALLET,care_instructions,"'Refinement', 'FAQ'",0.4,care_instructions,4,UMP,Optional
+BALLOON,item_dimensions,"'FAQ', 'Customer_Search'",0.4,item_dimensions,4,UMP,Required
+BOTTLE,color,"'Refinement', 'FAQ'",0.4,color,8,rac,Required
+LIGHT_BULB,bulb_shape_size,"'Refinement', 'FAQ'",0.4,,,,
+LIGHT_BULB,brightness,"'Refinement', 'FAQ'",0.4,brightness,4,UMP,Optional
+BED_LINEN_SET,style,"'Refinement', 'FAQ'",0.4,style,4,rac,Required
+BALLOON,material,"'Refinement', 'Customer_Search'",0.4,material,4,rac,Required
+BLANK_BOOK,style,"'Refinement', 'Customer_Search'",0.4,style,4,UMP,Required
+WALLET,brand,"'FAQ', 'Customer_Search'",0.4,brand,8,UMP,Required
+NON_RIDING_TOY_VEHICLE,operation_mode,"'Refinement', 'FAQ'",0.4,operation_mode,4,UMP,Optional
+WEARABLE_COMPUTER,battery_average_life,"'Refinement', 'FAQ'",0.4,,,,
+WEARABLE_COMPUTER,display_type,"'Refinement', 'FAQ'",0.4,,,,
+PERSONAL_FRAGRANCE,item_volume,"'Refinement', 'FAQ'",0.4,item_volume,8,UMP,Required
+PERSONAL_FRAGRANCE,scent,"'Refinement', 'Customer_Search'",0.4,scent,4,rac,Required
+BLANK_BOOK,ruling_type,"'Refinement', 'FAQ'",0.4,ruling_type,4,UMP,Optional
+BOOKEND, material,"'FAQ', 'Customer_Search'",0.4,,,,
+VEGETABLE, ingredients,"'FAQ', 'Customer_Search'",0.4,,,,
+LIGHT_BULB,power_source_type,"'FAQ', 'Customer_Search'",0.4,power_source_type,4,UMP,Optional
+LIGHT_BULB,number_of_items,"'Refinement', 'FAQ'",0.4,number_of_items,4,rac,Required
+PERSONAL_FRAGRANCE,target_gender,"'FAQ', 'Customer_Search'",0.4,target_gender,8,rac,Required
+NON_RIDING_TOY_VEHICLE,toy_vehicle_form,"'FAQ', 'Customer_Search'",0.4,toy_vehicle_form,8,rac,Optional
+BOOKEND,brand,"'FAQ', 'Customer_Search'",0.4,brand,4,UMP,Required
+BABY_PRODUCT,product_lot_code_tracking_class,"'FAQ', 'Customer_Search'",0.4,,,UMP,Optional
+VEGETABLE,produce_classification,"'FAQ', 'Customer_Search'",0.4,produce_classification,8,UMP,Optional
+BOOKEND,item_depth_width_height,"'FAQ', 'Customer_Search'",0.4,item_depth_width_height,4,UMP,Required
+TOY_FIGURE,theme,"'Refinement', 'Customer_Search'",0.4,theme,8,UMP,Optional
+BOOKEND,material,"'FAQ', 'Customer_Search'",0.4,material,8,rac,Required
+VEGETABLE,produce_sold_as_format,"'FAQ', 'Customer_Search'",0.4,produce_sold_as_format,4,UMP,Optional
+BLANK_BOOK,cover_material,"'Refinement', 'Customer_Search'",0.4,,,,
+TOY_FIGURE,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,8,UMP,Optional
+BOTTLE,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,8,rac,Required
+BED_LINEN_SET,size,"'FAQ', 'Customer_Search'",0.4,size,8,rac,Required
+WALLET,color,"'Refinement', 'FAQ'",0.4,color,8,rac,Required
+CELLULAR_PHONE,biometric_security_feature,"'Refinement', 'FAQ'",0.4,biometric_security_feature,4,UMP,Optional
+CELLULAR_PHONE,cellular_technology,"'Refinement', 'FAQ'",0.4,cellular_technology,8,rac,Required
+PORTABLE_ELECTRONIC_DEVICE_COVER,brand,"'FAQ', 'Customer_Search'",0.4,brand,8,UMP,Required
+CELLULAR_PHONE,connectivity_technology,"'Refinement', 'FAQ'",0.4,connectivity_technology,8,rac,Required
+CELLULAR_PHONE,connector_type,"'Refinement', 'FAQ'",0.4,connector_type,8,rac,Required
+PORTABLE_ELECTRONIC_DEVICE_COVER,color,"'Refinement', 'FAQ'",0.4,color,8,rac,Required
+ABIS_BOOK,publication_date,"'FAQ', 'Customer_Search'",0.4,,,rac,Required
+LAUNDRY_DETERGENT, item_form,"'FAQ', 'Customer_Search'",0.4,,,,
+LAUNDRY_DETERGENT, formulation_type,"'FAQ', 'Customer_Search'",0.4,,,,
+TOYS_AND_GAMES,material,"'Refinement', 'FAQ'",0.4,material,8,rac,Required
+WRITING_INSTRUMENT,point_type,"'FAQ', 'Customer_Search'",0.4,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER,compatible_devices,"'FAQ', 'Customer_Search'",0.4,compatible_devices,8,rac,Optional
+NON_RIDING_TOY_VEHICLE, material,'DPMO',0.4,,,,
+NUT_AND_SEED,flavor,"'FAQ', 'Customer_Search'",0.4,flavor,8,rac,Required
+NUT_AND_SEED,ingredients,"'FAQ', 'Customer_Search'",0.4,ingredients,8,UMP,Required
+PORTABLE_ELECTRONIC_DEVICE_COVER,material,"'Refinement', 'Customer_Search'",0.4,material,4,rac,Required
+TOYS_AND_GAMES,age_range_description,"'Refinement', 'Customer_Search'",0.4,age_range_description,8,UMP,Optional
+WRITING_INSTRUMENT,writing_instrument_form,"'FAQ', 'Customer_Search'",0.4,writing_instrument_form,8,UMP,Optional
+WRITING_INSTRUMENT,color,"'FAQ', 'Customer_Search'",0.4,color,8,rac,Required
+WRITING_INSTRUMENT,ink_color,"'FAQ', 'Customer_Search'",0.4,,,,
+NON_RIDING_TOY_VEHICLE,special_feature,"'Refinement', 'FAQ'",0.4,special_feature,4,UMP,Optional
+LAUNDRY_DETERGENT,number_of_items,"'FAQ', 'Customer_Search'",0.4,number_of_items,4,rac,Required
+BALLOON,occasion,"'Refinement', 'Customer_Search'",0.4,,,UMP,Required
+NON_RIDING_TOY_VEHICLE,color,"'Refinement', 'FAQ'",0.4,color,8,mac,Required
+NON_RIDING_TOY_VEHICLE,age_range_description,"'FAQ', 'Customer_Search'",0.4,age_range_description,8,mac,Optional
+LAUNDRY_DETERGENT,material_type_free,"'FAQ', 'Customer_Search'",0.4,material_type_free,4,UMP,Optional
+LAUNDRY_DETERGENT,material_feature,"'FAQ', 'Customer_Search'",0.4,material_feature,4,UMP,Optional
+BED_LINEN_SET,material,"'FAQ', 'Customer_Search'",0.4,material,8,rac,Required
+WALLET,form_factor,"'Refinement', 'FAQ'",0.4,form_factor,4,UMP,Optional
+LAUNDRY_DETERGENT,formulation_type,"'FAQ', 'Customer_Search'",0.4,formulation_type,4,UMP,Optional
+PESTICIDE,target_species,"'FAQ', 'Customer_Search'",0.4,target_species,4,UMP,Optional
+CELLULAR_PHONE,battery_average_life,"'Refinement', 'FAQ'",0.4,,,,
+CELLULAR_PHONE,battery_capacity,"'Refinement', 'FAQ'",0.4,,,,
+MASSAGER,target_use_body_part,"'Refinement', 'Customer_Search'",0.4,target_use_body_part,8,UMP,Optional
+SCREEN_PROTECTOR,compatible_phone_models,'Customer_Search',0.2,compatible_phone_models,4,rac,Optional
+PANTS,pants_form_type,'Customer_Search',0.2,pants_form_type,4,UMP,Optional
+PANTS,inseam_length,'Refinement',0.2,,,,
+PANTS,rise_style,'FAQ',0.2,,,,
+PANTS,pattern,'Refinement',0.2,,,,
+PANTS,material,'Refinement',0.2,material,8,rac,Required
+SCREEN_PROTECTOR,product_line,'Customer_Search',0.2,,,,
+SCREEN_PROTECTOR,model_name,'Customer_Search',0.2,model_name,1,,
+PANTS,pattern_type,'Refinement',0.2,pattern_type,4,mac,Optional
+PANTS,occasion_type,'Refinement',0.2,occasion_type,4,rac,Optional
+PANTS,item_length_description,'FAQ',0.2,item_length_description,4,rac,Required
+SCREEN_PROTECTOR,finish_type,'FAQ',0.2,finish_type,4,rac,Required
+SCREEN_PROTECTOR,item_length_width,'FAQ',0.2,item_length_width,4,UMP,Required
+PANTS,pocket_description,'Refinement',0.2,pocket_description,1,,
+PANTS,program_member,'Refinement',0.2,,,,
+SHAMPOO,hair_type,'FAQ',0.2,hair_type,8,rac,Required
+PANTS,fabric_type,'FAQ',0.2,fabric_type,4,mac,Required
+SCREEN_PROTECTOR,water_resistance_level,'FAQ',0.2,water_resistance_level,4,UMP,Optional
+SHAMPOO,recommended_uses_for_product,'Refinement',0.2,recommended_uses_for_product,2,,
+SHAMPOO,scent,'Customer_Search',0.2,scent,8,mac,Required
+NUT_AND_SEED,type,'Customer_Search',0.2,,,,
+NUT_AND_SEED,serving_recommendation,'FAQ',0.2,serving_recommendation,4,UMP,Optional
+NUT_AND_SEED,seed_type,'Customer_Search',0.2,,,,
+NUT_AND_SEED,program_member,'Refinement',0.2,,,,
+SHAMPOO,target_gender,'Customer_Search',0.2,target_gender,4,rac,Required
+SHIRT, fabric_type,'Customer_Search',0.2,,,,
+SHIRT, fit_type,'Customer_Search',0.2,,,,
+SHIRT, shirt_form_type,'Customer_Search',0.2,,,,
+SHIRT, shirt_size,'Customer_Search',0.2,,,,
+NUT_AND_SEED,product_type,'Customer_Search',0.2,,,,
+SHIRT, style,'Customer_Search',0.2,,,,
+NUT_AND_SEED,pack_size,'Customer_Search',0.2,,,,
+NUT_AND_SEED,nut_type,'Customer_Search',0.2,,,,
+SHIRT, target_gender,'Customer_Search',0.2,,,,
+SHIRT, top_style,'Customer_Search',0.2,,,,
+PANTS, fit_type,'Customer_Search',0.2,,,,
+PANTS, material,'Customer_Search',0.2,,,,
+SHAMPOO,program_member,'Refinement',0.2,,,,
+SHAMPOO, target_gender,'Customer_Search',0.2,,,,
+PANTS,color,'Refinement',0.2,color,8,mac,Required
+SHAMPOO, hair_type,'Customer_Search',0.2,,,,
+SHAMPOO, item_form,'Customer_Search',0.2,,,,
+PANTS,closure_type,'Refinement',0.2,,,,
+SHAMPOO, product_benefit,'Customer_Search',0.2,,,,
+SHAMPOO, scent,'Customer_Search',0.2,,,,
+PANTS,care_instructions,'Refinement',0.2,care_instructions,2,,
+PANTS,brand,'Customer_Search',0.2,brand,8,UMP,Required
+SHAMPOO,product_type,'Customer_Search',0.2,,,,
+PANTS,style,'Customer_Search',0.2,style,8,rac,Required
+SHAMPOO,item_form,'Refinement',0.2,item_form,8,rac,Required
+PANTS, target_gender,'Customer_Search',0.2,,,,
+PANTS, style,'Customer_Search',0.2,,,,
+SHAMPOO,number_of_items,'Refinement',0.2,number_of_items,2,,
+PANTS, pants_form_type,'Customer_Search',0.2,,,,
+SHAMPOO,product_line,'Customer_Search',0.2,,,,
+PANTS,special_feature,'FAQ',0.2,special_feature,4,UMP,Optional
+PORTABLE_ELECTRONIC_DEVICE_COVER,shell_type,'Refinement',0.2,shell_type,4,UMP,Optional
+PANTS,target_gender,'Customer_Search',0.2,target_gender,8,mac,Required
+PESTICIDE,product_type,'Customer_Search',0.2,,,,
+PESTICIDE,target_pests,'Customer_Search',0.2,,,,
+PESTICIDE,target_pest,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Medication,'Customer_Search',0.2,,,,
+PESTICIDE,specification_met,'FAQ',0.2,specification_met,4,UMP,Optional
+PESTICIDE,safety_warning,'FAQ',0.2,safety_warning,4,UMP,Optional
+PRESCRIPTION_DRUG,Orange Flavour,'FAQ',0.2,,,,
+PESTICIDE,purpose,'Customer_Search',0.2,,,,
+PESTICIDE,liquid_volume,'FAQ',0.2,liquid_volume,4,rac,Optional
+PRIME,Subscription,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Product Type,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,medication,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,medicine,'Customer_Search',0.2,,,,
+PESTICIDE,item_weight,'FAQ',0.2,item_weight,4,UMP,Required
+PESTICIDE,brand,'Customer_Search',0.2,brand,4,UMP,Required
+PRESCRIPTION_DRUG,skin care,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,vitamin,'Customer_Search',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER, compatible_device_size_maximum,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Material,'Customer_Search',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER, compatible_devices,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Lancets,'FAQ',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER,program_member,'Refinement',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER,pattern,'Refinement',0.2,pattern,4,UMP,Required
+PRESCRIPTION_DRUG, 9,'FAQ',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER,compatible_model,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG, Brand,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG, Lime Flavour,'FAQ',0.2,,,,
+PRESCRIPTION_DRUG,8.5,'FAQ',0.2,,,,
+PRESCRIPTION_DRUG,Brand,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Chocolate,'FAQ',0.2,,,,
+SHIRT,brand,'Customer_Search',0.2,brand,8,UMP,Required
+PRESCRIPTION_DRUG,Dosage,'Customer_Search',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER, material,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Drug Form,'Customer_Search',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER, form_factor,'Customer_Search',0.2,,,,
+PRESCRIPTION_DRUG,Flavor,'FAQ',0.2,,,,
+PRIME,Eligibility Criteria,'Customer_Search',0.2,,,,
+PUZZLES, age_range_description,'Customer_Search',0.2,,,,
+SCREEN_PROTECTOR,compatible_model,'Customer_Search',0.2,,,,
+PUZZLES,program_member,'Refinement',0.2,,,,
+PUZZLES,item_length_width_height_width,'Refinement',0.2,,,,
+PERSONAL_FRAGRANCE,item_form,'Refinement',0.2,item_form,8,rac,Required
+PERSONAL_FRAGRANCE,ingredients,'FAQ',0.2,ingredients,4,UMP,Optional
+PERSONAL_FRAGRANCE,brand_name,'Customer_Search',0.2,,,,
+PUZZLES,item_length_width_length,'Refinement',0.2,,,,
+PUZZLES,item_shape,'Refinement',0.2,item_shape,2,,
+PUZZLES,manufacturer_minimum_age,'Refinement',0.2,manufacturer_minimum_age,8,UMP,Required
+PUZZLES,target_gender,'Customer_Search',0.2,target_gender,4,rac,Optional
+PESTICIDE,Pest Control Type,'Customer_Search',0.2,,,,
+PUZZLES,theme,'Refinement',0.2,theme,8,rac,Optional
+SCREEN_PROTECTOR, compatible_phone_models,'Customer_Search',0.2,,,,
+SCREEN_PROTECTOR, material,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE,age_range_description,'Refinement',0.2,age_range_description,4,UMP,Optional
+PERSONAL_FRAGRANCE, target_gender,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE, scent,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE, fragrance_concentration,'Customer_Search',0.2,,,,
+PORTABLE_ELECTRONIC_DEVICE_COVER,theme,'Refinement',0.2,theme,4,rac,Optional
+PUZZLES,included_components,'FAQ',0.2,included_components,4,UMP,Required
+PUZZLES,educational_objective,'Refinement',0.2,educational_objective,4,UMP,Optional
+PUZZLES,color,'Refinement',0.2,color,4,rac,Required
+PUZZLES, manufacturer_minimum_age,'FAQ',0.2,,,,
+PUZZLES, number_of_pieces,'Customer_Search',0.2,,,,
+PUZZLES, puzzle_type,'FAQ',0.2,,,,
+PUZZLES, target_gender,'Customer_Search',0.2,,,,
+PESTICIDE, item_form,'Customer_Search',0.2,,,,
+PESTICIDE, formulation,'Customer_Search',0.2,,,,
+PUZZLES,age_group,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE,target_gender:men,'FAQ',0.2,,,,
+PERSONAL_FRAGRANCE,target_audience,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE,special_feature,'FAQ',0.2,special_feature,4,UMP,Optional
+PUZZLES,age_range,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE,product_type,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE,product_line,'Customer_Search',0.2,,,,
+PERSONAL_FRAGRANCE,number_of_items,'Refinement',0.2,number_of_items,1,,
+PERSONAL_FRAGRANCE,material_feature,'Refinement',0.2,material_feature,2,,
+PUZZLES,item_length_width,'FAQ',0.2,item_length_width,8,UMP,Required
+ABIS_BOOK, genre,'Customer_Search',0.2,,,,
+SHIRT,care_instructions,'Refinement',0.2,care_instructions,2,,
+VEGETABLE, g,'FAQ',0.2,,,,
+TOY_FIGURE,item_length_width_height,'FAQ',0.2,item_length_width_height,8,UMP,Required
+TOY_FIGURE,manufacturer_minimum_age,'Refinement',0.2,manufacturer_minimum_age,8,UMP,Required
+TOY_FIGURE,material ,'Refinement',0.2,,,,
+TOY_FIGURE,occasion_type,'Refinement',0.2,occasion_type,8,UMP,Optional
+TOY_FIGURE,program_member,'Refinement',0.2,,,,
+TOY_FIGURE,size,'FAQ',0.2,size,8,rac,Required
+TOY_FIGURE,toy_figure_type,'Customer_Search',0.2,toy_figure_type,8,UMP,Optional
+TOY_FIGURE,toy_type,'Customer_Search',0.2,,,,
+VEGETABLE, 500,'FAQ',0.2,,,,
+VEGETABLE, Packaging Type,'Customer_Search',0.2,,,,
+VEGETABLE, freshness_condition,'Customer_Search',0.2,,,,
+VEGETABLE, item_weight,'Customer_Search',0.2,,,,
+WALLET, material,'Customer_Search',0.2,,,,
+VEGETABLE, number_of_items,'Customer_Search',0.2,,,,
+VEGETABLE, pack_size,'Customer_Search',0.2,,,,
+VEGETABLE, produce_classification,'FAQ',0.2,,,,
+VEGETABLE, produce_sold_as_format,'Customer_Search',0.2,,,,
+VEGETABLE,diet_type,'FAQ',0.2,diet_type,8,UMP,Optional
+VEGETABLE,ingredients,'FAQ',0.2,ingredients,4,UMP,Required
+VEGETABLE,item_form,'FAQ',0.2,item_form,8,rac,Required
+VEGETABLE,item_weight,'FAQ',0.2,item_weight,4,rac,Required
+VEGETABLE,number_of_items,'FAQ',0.2,number_of_items,4,rac,Required
+VEGETABLE,produce_type,'Customer_Search',0.2,,,,
+VEGETABLE,produce_variety,'Customer_Search',0.2,,,,
+TOY_FIGURE,item_dimensions_height,'Refinement',0.2,,,,
+TOY_FIGURE,country_of_origin,'FAQ',0.2,country_of_origin,8,UMP,Required
+TOY_FIGURE,color,'Refinement',0.2,color,8,mac,Required
+TOY_FIGURE,character_name,'Customer_Search',0.2,,,,
+TOYS_AND_GAMES,closure_type,'Refinement',0.2,,,,
+TOYS_AND_GAMES,item_dimensions_height,'Refinement',0.2,,,,
+TOYS_AND_GAMES,item_shape,'Refinement',0.2,,,,
+TOYS_AND_GAMES,manufacturer_minimum_age,'Refinement',0.2,,,,
+TOYS_AND_GAMES,number_of_items,'Refinement',0.2,,,,
+TOYS_AND_GAMES,number_of_players,'FAQ',0.2,number_of_players,4,UMP,Optional
+TOYS_AND_GAMES,occasion,'Refinement',0.2,,,,
+TOYS_AND_GAMES,pattern,'Refinement',0.2,,,,
+TOYS_AND_GAMES,product_type,'Customer_Search',0.2,,,,
+TOYS_AND_GAMES,program_member,'Refinement',0.2,,,,
+TOYS_AND_GAMES,size,'FAQ',0.2,size,4,UMP,Required
+TOYS_AND_GAMES,subject_character,'Customer_Search',0.2,subject_character,4,UMP,Optional
+TOYS_AND_GAMES,target_gender,'Customer_Search',0.2,target_gender,4,UMP,Optional
+TOYS_AND_GAMES,theme,'Customer_Search',0.2,theme,8,UMP,Required
+TOYS_AND_GAMES,toy_type,'Customer_Search',0.2,,,,
+TOY_FIGURE, model_name,'Customer_Search',0.2,,,,
+TOY_FIGURE, size,'FAQ',0.2,,,,
+TOY_FIGURE, subject_character,'Customer_Search',0.2,,,,
+TOY_FIGURE, target_gender,'Customer_Search',0.2,,,,
+TOY_FIGURE, theme,'Customer_Search',0.2,,,,
+TOY_FIGURE, toy_figure_type,'Customer_Search',0.2,,,,
+TOY_FIGURE,animal_theme,'Customer_Search',0.2,animal_theme,8,UMP,Optional
+TOY_FIGURE,brand,'Customer_Search',0.2,brand,8,UMP,Required
+WALLET, gender,'Customer_Search',0.2,,,,
+WALLET, style,'Customer_Search',0.2,,,,
+SHIRT,closure_type,'Refinement',0.2,,,,
+WIRELESS_PLAN_OPTION,Payment Method,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER,clasp_type,'Refinement',0.2,clasp_type,2,,
+WEARABLE_COMPUTER,color,'Refinement',0.2,color,8,rac,Required
+WEARABLE_COMPUTER,compatible_devices,'Refinement',0.2,compatible_devices,8,rac,Optional
+WEARABLE_COMPUTER,compatible_phone_models,'Refinement',0.2,compatible_phone_models,8,UMP,Optional
+WEARABLE_COMPUTER,controller_type,'Refinement',0.2,controller_type,1,,
+WEARABLE_COMPUTER,display_size,'Refinement',0.2,,,,
+WEARABLE_COMPUTER,gender,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER,warranty_type,'FAQ',0.2,warranty_type,4,rac,Optional
+WEARABLE_COMPUTER,water_resistance_level,'FAQ',0.2,water_resistance_level,4,UMP,Optional
+WIRELESS_PLAN_OPTION,Financial Services,'Customer_Search',0.2,,,,
+WIRELESS_PLAN_OPTION,Payment Category,'Customer_Search',0.2,,,,
+WIRELESS_PLAN_OPTION,Payment Mode,'Customer_Search',0.2,,,,
+WALLET, target_gender,'Customer_Search',0.2,,,,
+WIRELESS_PLAN_OPTION,bill payment,'Customer_Search',0.2,,,,
+WIRELESS_PLAN_OPTION,electricity bill payment,'Customer_Search',0.2,,,,
+WIRELESS_PLAN_OPTION,mobile,'Customer_Search',0.2,,,,
+WRITING_INSTRUMENT, material,'Customer_Search',0.2,,,,
+WRITING_INSTRUMENT, writing_instrument_form,'Customer_Search',0.2,,,,
+WRITING_INSTRUMENT,included_components,'FAQ',0.2,included_components,4,UMP,Optional
+WRITING_INSTRUMENT,item_dimensions,'Customer_Search',0.2,item_dimensions,4,rac,Required
+WRITING_INSTRUMENT,model_name,'Customer_Search',0.2,model_name,4,rac,Required
+WRITING_INSTRUMENT,recommended_uses_for_product,'FAQ',0.2,recommended_uses_for_product,4,rac,Optional
+WRITING_INSTRUMENT,special_feature,'FAQ',0.2,special_feature,8,rac,Required
+WRITING_INSTRUMENT,unit_count,'FAQ',0.2,unit_count,4,rac,Required
+WEARABLE_COMPUTER,case_material,'Refinement',0.2,,,,
+WEARABLE_COMPUTER,brand,'Customer_Search',0.2,brand,8,rac,Required
+WEARABLE_COMPUTER,battery_charge_time,'FAQ',0.2,,,,
+WEARABLE_COMPUTER,battery_cell_composition,'FAQ',0.2,,,,
+WALLET, wallet_compartment_type,'Customer_Search',0.2,,,,
+WALLET,closure_type,'Refinement',0.2,,,,
+WALLET,included_components,'Refinement',0.2,included_components,4,UMP,Optional
+WALLET,lining_description,'Refinement',0.2,lining_description,4,UMP,Optional
+WALLET,pattern,'Refinement',0.2,pattern,8,UMP,Required
+WALLET,pocket_description,'Refinement',0.2,pocket_description,4,mac,Optional
+WALLET,program_member,'Refinement',0.2,,,,
+WALLET,special_feature,'FAQ',0.2,special_feature,8,UMP,Optional
+WALLET,style,'Customer_Search',0.2,style,8,mac,Required
+WALLET,target_audience,'Customer_Search',0.2,,,,
+WALLET,target_gender,'Customer_Search',0.2,target_gender,8,UMP,Optional
+WEARABLE_COMPUTER, battery_average_life,'FAQ',0.2,,,,
+WEARABLE_COMPUTER, battery_charge_time,'FAQ',0.2,,,,
+WEARABLE_COMPUTER, case_material,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, compatible_devices,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, display_type,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, model_name,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, special_feature,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, sport_type,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, style,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, target_audience,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER, water_resistance_level,'Customer_Search',0.2,,,,
+WEARABLE_COMPUTER,band_material,'Refinement',0.2,,,,
+TOYS_AND_GAMES,brand,'Customer_Search',0.2,brand,8,UMP,Required
+TOYS_AND_GAMES,age_group,'Customer_Search',0.2,,,,
+TOYS_AND_GAMES, theme,'Customer_Search',0.2,,,,
+SKIN_CLEANING_AGENT,program_member,'Refinement',0.2,,,,
+SHOES,height_map,'Refinement',0.2,height_map,2,,
+SHOES,shoe_type,'Customer_Search',0.2,shoe_type,4,UMP,Optional
+SHOES,sole_material,'FAQ',0.2,sole_material,4,rac,Optional
+SHOES,special_feature,'FAQ',0.2,special_feature,8,UMP,Optional
+SHOES,waterproof,'FAQ',0.2,,,,
+SKIN_CLEANING_AGENT, product_type,'Customer_Search',0.2,,,,
+SKIN_CLEANING_AGENT, target_use_body_part,'Customer_Search',0.2,,,,
+SKIN_CLEANING_AGENT,brand,'Customer_Search',0.2,brand,8,UMP,Required
+SKIN_CLEANING_AGENT,material_feature,'Refinement',0.2,material_feature,8,UMP,Optional
+SKIN_CLEANING_AGENT,product_line,'Customer_Search',0.2,,,,
+SKIN_CLEANING_AGENT,product_type,'Customer_Search',0.2,,,,
+SKIN_MOISTURIZER, product_benefit,'Customer_Search',0.2,,,,
+TOYS_AND_GAMES, target_gender,'Customer_Search',0.2,,,,
+NUT_AND_SEED,number_of_items,'Refinement',0.2,number_of_items,1,,
+SKIN_MOISTURIZER, target_use_body_part,'Customer_Search',0.2,,,,
+SKIN_MOISTURIZER,item_form,'Customer_Search',0.2,item_form,8,rac,Required
+SKIN_MOISTURIZER,item_volume,'Refinement',0.2,item_volume,4,UMP,Optional
+SKIN_MOISTURIZER,item_weight,'Refinement',0.2,item_weight,1,,
+SKIN_MOISTURIZER,material_feature,'Refinement',0.2,material_feature,2,,
+SKIN_MOISTURIZER,material_type_free,'Refinement',0.2,material_type_free,4,UMP,Optional
+SKIN_MOISTURIZER,number_of_items,'Refinement',0.2,number_of_items,8,UMP,Required
+SKIN_MOISTURIZER,product_line,'Customer_Search',0.2,,,,
+SKIN_MOISTURIZER,product_type,'Customer_Search',0.2,,,,
+SKIN_MOISTURIZER,program_member,'Refinement',0.2,,,,
+SHOES,heel_type,'Refinement',0.2,,,,
+SHOES,gender,'Customer_Search',0.2,,,,
+SHOES,footwear_size_size_system,'Refinement',0.2,,,,
+SHOES,embellishment_feature,'Refinement',0.2,embellishment_feature,4,UMP,Optional
+SHIRT,collar_style,'Refinement',0.2,collar_style,4,rac,Required
+SHIRT,embellishment_feature,'FAQ',0.2,embellishment_feature,4,UMP,Optional
+SHIRT,fit_type,'Refinement',0.2,fit_type,8,rac,Required
+SHIRT,item_length_description,'Refinement',0.2,item_length_description,4,UMP,Required
+SHIRT,material,'Refinement',0.2,material,8,rac,Required
+SHIRT,neck_neck_style,'Refinement',0.2,,,,
+SHIRT,occasion_type,'Refinement',0.2,occasion_type,8,mac,Optional
+SHIRT,pattern,'Refinement',0.2,pattern,4,rac,Required
+SHIRT,pocket_description,'Refinement',0.2,pocket_description,2,,
+SHIRT,shirt_size,'FAQ',0.2,shirt_size,8,UMP,Required
+SHIRT,target_gender,'Customer_Search',0.2,target_gender,8,mac,Required
+SHIRT,top_style,'Customer_Search',0.2,top_style,4,UMP,Optional
+SHOES, color,'FAQ',0.2,,,,
+SHOES, gender,'Customer_Search',0.2,,,,
+SHOES, outer_material,'Customer_Search',0.2,,,,
+SHOES, shoe_type,'Customer_Search',0.2,,,,
+SHOES, specific_uses_for_product,'FAQ',0.2,,,,
+SHOES, sport_type,'Customer_Search',0.2,,,,
+SHOES, style,'Customer_Search',0.2,,,,
+SHOES,arch_type,'Refinement',0.2,,,,
+SHOES,cleat_description,'Refinement',0.2,,,,
+SHOES,closure_type,'Refinement',0.2,,,,
+SHOES,closure_type ,'Refinement',0.2,,,,
+SKIN_MOISTURIZER,scent,'FAQ',0.2,scent,8,UMP,Required
+SKIN_MOISTURIZER,skin_type ,'Refinement',0.2,,,,
+SKIN_MOISTURIZER,special_feature,'Refinement',0.2,special_feature,2,,
+SUNSCREEN,special_feature,'Refinement',0.2,,,,
+TABLETOP_GAME, subject_character,'Customer_Search',0.2,,,,
+TABLETOP_GAME, theme,'Customer_Search',0.2,,,,
+TABLETOP_GAME,age_range,'Customer_Search',0.2,,,,
+TABLETOP_GAME,brand,'Customer_Search',0.2,brand,8,UMP,Required
+TABLETOP_GAME,color,'Refinement',0.2,color,8,mac,Required
+TABLETOP_GAME,container_type,'Refinement',0.2,,,,
+TABLETOP_GAME,game_type,'Customer_Search',0.2,,,,
+TABLETOP_GAME,included_components,'Refinement',0.2,included_components,4,rac,Required
+TABLETOP_GAME,program_member,'Refinement',0.2,,,,
+TABLETOP_GAME,special_feature,'Refinement',0.2,special_feature,4,UMP,Optional
+TABLETOP_GAME,style,'Refinement',0.2,style,4,UMP,Required
+TOWEL, fabric_weight,'Customer_Search',0.2,,,,
+TOWEL, material,'Customer_Search',0.2,,,,
+TOWEL, style,'Customer_Search',0.2,,,,
+TOWEL,care_instructions,'Refinement',0.2,care_instructions,2,,
+TOWEL,item_length_width_length,'Refinement',0.2,,,,
+TOWEL,item_length_width_width,'Refinement',0.2,,,,
+TOWEL,item_shape,'Refinement',0.2,item_shape,2,,
+TOWEL,material_type,'Customer_Search',0.2,,,,
+TOWEL,product_type,'Customer_Search',0.2,,,,
+TOWEL,program_member,'Refinement',0.2,,,,
+TOWEL,towel_form_type,'Customer_Search',0.2,towel_form_type,8,UMP,Optional
+TOYS_AND_GAMES, age_range_description,'Customer_Search',0.2,,,,
+SUNSCREEN,sun_protection_factor,'Customer_Search',0.2,sun_protection_factor,8,UMP,Required
+SUNSCREEN,skin_type ,'Refinement',0.2,,,,
+SKIN_MOISTURIZER,target_use_body_part,'Customer_Search',0.2,target_use_body_part,4,UMP,Optional
+SUNSCREEN,program_member,'Refinement',0.2,,,,
+SKIN_MOISTURIZER,unscented,'FAQ',0.2,,,,
+STRING_LIGHT, power_source_type,'Customer_Search',0.2,,,,
+STRING_LIGHT, special_feature,'Customer_Search',0.2,,,,
+STRING_LIGHT,cable_length,'FAQ',0.2,,,,
+STRING_LIGHT,color,'Refinement',0.2,color,8,rac,Required
+STRING_LIGHT,color_temperature,'Refinement',0.2,color_temperature,4,UMP,Optional
+STRING_LIGHT,control_method,'Refinement',0.2,control_method,1,,
+STRING_LIGHT,light_type,'Customer_Search',0.2,,,,
+STRING_LIGHT,seasons,'Refinement',0.2,seasons,1,,
+STRING_LIGHT,waterproof,'FAQ',0.2,,,,
+STRING_LIGHT,white_brightness,'Refinement',0.2,white_brightness,1,,
+SUNSCREEN, active_ingredients,'Customer_Search',0.2,,,,
+SUNSCREEN, product_benefit,'Customer_Search',0.2,,,,
+SUNSCREEN, skin_type,'Customer_Search',0.2,,,,
+SUNSCREEN, sun_protection_factor,'Customer_Search',0.2,,,,
+SUNSCREEN,No fragrance,'FAQ',0.2,,,,
+SUNSCREEN,brand,'Customer_Search',0.2,brand,4,UMP,Required
+SUNSCREEN,item_form,'Refinement',0.2,item_form,1,,
+SUNSCREEN,item_volume,'Refinement',0.2,item_volume,4,UMP,Optional
+SUNSCREEN,item_weight,'Refinement',0.2,item_weight,8,UMP,Required
+SUNSCREEN,material_feature,'Refinement',0.2,material_feature,1,,
+SUNSCREEN,number_of_items,'Refinement',0.2,number_of_items,8,mac,Required
+SUNSCREEN,product_line,'Customer_Search',0.2,,,,
+SKIN_MOISTURIZER, skin_type,'Customer_Search',0.2,,,,
+LIGHT_BULB,light_type,'Customer_Search',0.2,light_type,8,rac,Optional
+NUT_AND_SEED,directions,'FAQ',0.2,directions,4,UMP,Optional
+CELLULAR_PHONE_CASE,pattern,'Refinement',0.2,pattern,8,rac,Required
+CELLULAR_PHONE_CASE,program_member,'Refinement',0.2,,,,
+CELLULAR_PHONE_CASE,theme,'Refinement',0.2,theme,8,rac,Optional
+CELLULAR_PHONE_CASE,water_resistance_level,'FAQ',0.2,water_resistance_level,4,UMP,Optional
+CHARGING_ADAPTER, cable_length,'FAQ',0.2,,,,
+CHARGING_ADAPTER, compatible_devices,'Customer_Search',0.2,,,,
+CHARGING_ADAPTER, output_current,'FAQ',0.2,,,,
+CHARGING_ADAPTER, output_voltage,'Customer_Search',0.2,,,,
+CHARGING_ADAPTER, power_source_type,'Customer_Search',0.2,,,,
+CHARGING_ADAPTER, wattage,'Customer_Search',0.2,,,,
+CHARGING_ADAPTER,amperage,'Refinement',0.2,amperage,8,UMP,Optional
+CHARGING_ADAPTER,cable_length,'FAQ',0.2,,,,
+CHARGING_ADAPTER,country_of_origin,'FAQ',0.2,country_of_origin,8,UMP,Required
+CHARGING_ADAPTER,material,'FAQ',0.2,material,4,UMP,Required
+CHARGING_ADAPTER,number_of_ports,'Refinement',0.2,,,,
+CHARGING_ADAPTER,program_member,'Refinement',0.2,,,,
+CLEANING_AGENT, item_form,'Customer_Search',0.2,,,,
+CLEANING_AGENT,brand,'Customer_Search',0.2,brand,8,UMP,Required
+CLEANING_AGENT,category,'Customer_Search',0.2,,,,
+CLEANING_AGENT,item_volume,'Customer_Search',0.2,item_volume,4,UMP,Optional
+CLEANING_AGENT,item_weight,'Refinement',0.2,item_weight,2,,
+CLEANING_AGENT,material_feature,'FAQ',0.2,material_feature,4,UMP,Optional
+CLEANING_AGENT,material_type_free,'Refinement',0.2,material_type_free,4,UMP,Optional
+CLEANING_AGENT,number_of_items,'Refinement',0.2,number_of_items,2,,
+CLEANING_AGENT,product_line,'Customer_Search',0.2,,,,
+CLEANING_AGENT,product_type,'Customer_Search',0.2,,,,
+CELLULAR_PHONE_CASE,product_line,'Customer_Search',0.2,,,,
+CELLULAR_PHONE_CASE,model_number,'Customer_Search',0.2,model_number,4,rac,Required
+ELECTRONIC_CABLE,program_member,'Refinement',0.2,,,,
+CELLULAR_PHONE_CASE,model_name,'Customer_Search',0.2,model_name,4,rac,Required
+CELLULAR_PHONE, model_number,'Customer_Search',0.2,,,,
+CELLULAR_PHONE, operating_system,'Customer_Search',0.2,,,,
+CELLULAR_PHONE, wireless_network_technology,'Customer_Search',0.2,,,,
+CELLULAR_PHONE,battery_description,'FAQ',0.2,,,,
+CELLULAR_PHONE,brand,'Customer_Search',0.2,brand,8,UMP,Required
+CELLULAR_PHONE,color,'Refinement',0.2,color,8,rac,Required
+CELLULAR_PHONE,cpu_model_speed,'Refinement',0.2,,,,
+CELLULAR_PHONE,display_size,'Refinement',0.2,,,,
+CELLULAR_PHONE,display_type,'Refinement',0.2,,,,
+CELLULAR_PHONE,effective_still_resolution,'Refinement',0.2,,,,
+CELLULAR_PHONE,model_name,'Customer_Search',0.2,model_name,8,UMP,Required
+CELLULAR_PHONE,model_number,'Customer_Search',0.2,model_number,4,UMP,Required
+CELLULAR_PHONE,product_line,'Customer_Search',0.2,,,,
+CELLULAR_PHONE,sim_card_slot_count,'FAQ',0.2,sim_card_slot_count,8,UMP,Optional
+CELLULAR_PHONE,wireless_network_technology,'FAQ',0.2,wireless_network_technology,8,UMP,Optional
+CELLULAR_PHONE,wireless_provider,'FAQ',0.2,wireless_provider,8,rac,Required
+CELLULAR_PHONE_CASE, compatible_phone_models,'Customer_Search',0.2,,,,
+CELLULAR_PHONE_CASE, form_factor,'Customer_Search',0.2,,,,
+CELLULAR_PHONE_CASE, model_name,'Customer_Search',0.2,,,,
+CELLULAR_PHONE_CASE, model_number,'Customer_Search',0.2,,,,
+CELLULAR_PHONE_CASE,brand,'Customer_Search',0.2,brand,8,rac,Required
+CELLULAR_PHONE_CASE,compatible_devices,'Customer_Search',0.2,compatible_devices,4,rac,Optional
+CELLULAR_PHONE_CASE,embellishment_feature,'Refinement',0.2,embellishment_feature,8,UMP,Optional
+CELLULAR_PHONE_CASE,finish_type,'Refinement',0.2,finish_type,4,rac,Optional
+CELLULAR_PHONE_CASE,included_components,'Refinement',0.2,included_components,8,rac,Required
+CLEANING_AGENT,program_member,'Refinement',0.2,,,,
+CLEANING_AGENT,unit_count,'FAQ',0.2,unit_count,4,rac,Required
+CONSUMER_SERVICES_SUBSCRIPTION,Online Streaming Service,'Customer_Search',0.2,,,,
+CONSUMER_SERVICES_SUBSCRIPTION,Subscription Service,'Customer_Search',0.2,,,,
+EDIBLE_OIL_VEGETABLE,country_of_origin,'Customer_Search',0.2,country_of_origin,8,UMP,Required
+EDIBLE_OIL_VEGETABLE,flavor,'Customer_Search',0.2,flavor,8,UMP,Required
+EDIBLE_OIL_VEGETABLE,import_designation,'FAQ',0.2,import_designation,4,UMP,Optional
+EDIBLE_OIL_VEGETABLE,ingredients,'Customer_Search',0.2,ingredients,8,UMP,Required
+EDIBLE_OIL_VEGETABLE,liquid_volume,'Customer_Search',0.2,liquid_volume,4,UMP,Required
+EDIBLE_OIL_VEGETABLE,oil_type,'Customer_Search',0.2,,,,
+EDIBLE_OIL_VEGETABLE,product_name,'Customer_Search',0.2,,,,
+EDIBLE_OIL_VEGETABLE,special_feature,'FAQ',0.2,special_feature,8,UMP,Optional
+ELECTRONIC_CABLE, cable_type,'Customer_Search',0.2,,,,
+ELECTRONIC_CABLE, compatible_devices,'Customer_Search',0.2,,,,
+ELECTRONIC_CABLE, connector_type,'Customer_Search',0.2,,,,
+ELECTRONIC_CABLE, data_transfer_rate,'Customer_Search',0.2,,,,
+ELECTRONIC_CABLE,color,'Customer_Search',0.2,color,4,rac,Required
+ELECTRONIC_CABLE,compatible_phone_models,'FAQ',0.2,compatible_phone_models,8,UMP,Optional
+ELECTRONIC_CABLE,connector_gender,'Refinement',0.2,connector_gender,4,UMP,Required
+ELECTRONIC_CABLE,connector_type ,'Refinement',0.2,,,,
+ELECTRONIC_CABLE,country_of_origin,'FAQ',0.2,country_of_origin,4,UMP,Required
+ELECTRONIC_CABLE,country_of_origin=China,'FAQ',0.2,,,,
+ELECTRONIC_CABLE,data_transfer_rate,'FAQ',0.2,data_transfer_rate,4,rac,Optional
+ELECTRONIC_CABLE,ethernet_cable_category,'Refinement',0.2,ethernet_cable_category,4,UMP,Optional
+ELECTRONIC_CABLE,headphones_jack,'Refinement',0.2,,,,
+ELECTRONIC_CABLE,item_shape,'Refinement',0.2,item_shape,4,rac,Required
+ELECTRONIC_CABLE,item_weight,'Refinement',0.2,item_weight,2,,
+ELECTRONIC_CABLE,manufacturer,'Customer_Search',0.2,,,,
+ELECTRONIC_CABLE,maximum_voltage,'Refinement',0.2,maximum_voltage,1,,
+EDIBLE_OIL_VEGETABLE, oil_category,'Customer_Search',0.2,,,,
+EDIBLE_OIL_VEGETABLE, ingredients,'Customer_Search',0.2,,,,
+DRINKING_CUP,style,'Customer_Search',0.2,style,8,UMP,Required
+COOKIE,product_name,'Customer_Search',0.2,,,,
+CONSUMER_SERVICES_SUBSCRIPTION,subscription,'Customer_Search',0.2,,,,
+COOKIE, flavor,'Customer_Search',0.2,,,,
+COOKIE, item_form,'Customer_Search',0.2,,,,
+COOKIE,category,'Customer_Search',0.2,,,,
+COOKIE,diet_type,'FAQ',0.2,diet_type,8,UMP,Optional
+COOKIE,flavor,'Customer_Search',0.2,flavor,8,rac,Required
+COOKIE,item_form,'Customer_Search',0.2,item_form,4,rac,Required
+COOKIE,item_weight,'Customer_Search',0.2,item_weight,4,rac,Required
+COOKIE,number_of_items,'FAQ',0.2,number_of_items,8,UMP,Required
+COOKIE,number_of_pieces,'FAQ',0.2,number_of_pieces,4,UMP,Optional
+COOKIE,product_line,'Customer_Search',0.2,,,,
+COOKIE,product_type,'Customer_Search',0.2,,,,
+DRINKING_CUP,special_feature,'FAQ',0.2,special_feature,8,rac,Optional
+DRINKING_CUP, capacity,'Customer_Search',0.2,,,,
+DRINKING_CUP, material,'Customer_Search',0.2,,,,
+DRINKING_CUP, specific_uses_for_product,'FAQ',0.2,,,,
+DRINKING_CUP, theme,'Customer_Search',0.2,,,,
+DRINKING_CUP,included_components,'Refinement',0.2,included_components,4,rac,Required
+DRINKING_CUP,item_shape,'Customer_Search',0.2,item_shape,4,rac,Required
+DRINKING_CUP,material_type_free,'Refinement',0.2,material_type_free,2,,
+DRINKING_CUP,number_of_pieces,'Refinement',0.2,,,,
+DRINKING_CUP,pattern_type,'Refinement',0.2,pattern_type,4,UMP,Optional
+DRINKING_CUP,product_type,'Customer_Search',0.2,,,,
+DRINKING_CUP,program_member,'Refinement',0.2,,,,
+CELLULAR_PHONE, model_name,'Customer_Search',0.2,,,,
+CELLULAR_PHONE, display_size,'Customer_Search',0.2,,,,
+CELLULAR_PHONE, color,'Customer_Search',0.2,,,,
+BED_LINEN_SET, thread_count,'Customer_Search',0.2,,,,
+BABY_PRODUCT,Category,'Customer_Search',0.2,,,,
+BABY_PRODUCT,I,'FAQ',0.2,,,,
+BABY_PRODUCT,Product Category,'Customer_Search',0.2,,,,
+BABY_PRODUCT,Product Type,'Customer_Search',0.2,,,,
+BABY_PRODUCT,age_group,'Customer_Search',0.2,,,,
+BABY_PRODUCT,lot,'FAQ',0.2,,,,
+BALLOON, item_dimensions,'Customer_Search',0.2,,,,
+BALLOON, occasion_type,'Customer_Search',0.2,,,,
+BALLOON, size,'Customer_Search',0.2,,,,
+BALLOON, theme,'Customer_Search',0.2,,,,
+BALLOON, unit_count,'Customer_Search',0.2,,,,
+BALLOON,included_components,'Refinement',0.2,included_components,8,UMP,Required
+BALLOON,manufacturer_minimum_age,'Refinement',0.2,,,UMP,Required
+BALLOON,number_of_items,'Refinement',0.2,,,UMP,Required
+BALLOON,occasion_type,'Customer_Search',0.2,occasion_type,8,rac,Required
+BALLOON,program_member,'Refinement',0.2,,,,
+BALLOON,size,'FAQ',0.2,size,4,rac,Required
+BALLOON,special_feature,'Refinement',0.2,special_feature,1,UMP,Optional
+BALLOON,theme,'Customer_Search',0.2,theme,4,rac,Optional
+BALLOON,unit_count,'FAQ',0.2,unit_count,4,UMP,Optional
+BED_LINEN_SET, bed_size,'Customer_Search',0.2,,,,
+BED_LINEN_SET, color,'Customer_Search',0.2,,,,
+BED_LINEN_SET, material,'Customer_Search',0.2,,,,
+BED_LINEN_SET, material_type,'Customer_Search',0.2,,,,
+BED_LINEN_SET, size,'Customer_Search',0.2,,,,
+BABY_PRODUCT,Baby Care,'Customer_Search',0.2,,,,
+BABY_PRODUCT,Age Group,'Customer_Search',0.2,,,,
+BABY_PRODUCT, Sub-Category,'Customer_Search',0.2,,,,
+ABIS_EBOOKS, Genre,'Customer_Search',0.2,,,,
+ABIS_BOOK,author,'Customer_Search',0.2,,,rac,Required
+ABIS_BOOK,category,'Customer_Search',0.2,,,,
+ABIS_BOOK,edition,'FAQ',0.2,,,UMP,Optional
+ABIS_BOOK,format,'Customer_Search',0.2,,,rac,Optional
+ABIS_BOOK,genre,'Customer_Search',0.2,,,UMP,Optional
+ABIS_BOOK,item_dimensions,'FAQ',0.2,,,UMP,Required
+ABIS_BOOK,language,'Customer_Search',0.2,,,rac,Required
+ABIS_BOOK,pages,'FAQ',0.2,,,rac,Optional
+ABIS_BOOK,series_title,'Customer_Search',0.2,,,UMP,Optional
+ABIS_BOOK,subject,'Customer_Search',0.2,,,,
+ABIS_BOOK,title,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,Author,'Customer_Search',0.2,,,,
+BABY_PRODUCT, Material,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,Electronics,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,Genre,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,Language,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,Product Type,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,Subscription,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,author,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,credit card,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,free,'Customer_Search',0.2,,,,
+ABIS_EBOOKS,subscription,'Customer_Search',0.2,,,,
+BABY_PRODUCT, Age Group,'Customer_Search',0.2,,,,
+BABY_PRODUCT, Gender,'Customer_Search',0.2,,,,
+BED_LINEN_SET, style,'Customer_Search',0.2,,,,
+BED_LINEN_SET,bed_size,'Customer_Search',0.2,,,,
+CELLULAR_PHONE, cellular_technology,'Customer_Search',0.2,,,,
+BED_LINEN_SET,care_instructions,'Refinement',0.2,care_instructions,2,rac,Optional
+BOOKEND, room,'Customer_Search',0.2,,,,
+BOOKEND,10 inch,'FAQ',0.2,,,,
+BOOKEND,2,'FAQ',0.2,,,,
+BOOKEND,black,'FAQ',0.2,,,,
+BOOKEND,color,'FAQ',0.2,color,4,rac,Required
+BOOKEND,furniture_type,'Customer_Search',0.2,,,,
+BOOKEND,item_type,'Customer_Search',0.2,,,,
+BOOKEND,number_of_pieces,'FAQ',0.2,number_of_pieces,4,rac,Optional
+BOOKEND,product_type,'Customer_Search',0.2,,,UMP,Required
+BOTTLE, bottle_type,'Customer_Search',0.2,,,,
+BOTTLE, capacity,'Customer_Search',0.2,,,,
+BOTTLE, color,'Customer_Search',0.2,,,,
+BOTTLE, material,'Customer_Search',0.2,,,,
+BOTTLE, recommended_uses_for_product,'Customer_Search',0.2,,,,
+BOTTLE,brand,'Customer_Search',0.2,brand,8,UMP,Required
+BOTTLE,item_shape,'Refinement',0.2,item_shape,2,rac,Required
+BOTTLE,item_width_height,'FAQ',0.2,item_width_height,4,UMP,Required
+BOTTLE,number_of_items,'FAQ',0.2,number_of_items,4,rac,Required
+BOTTLE,number_of_pieces,'Refinement',0.2,,,,
+BOTTLE,product_type,'Customer_Search',0.2,,,UMP,Required
+BOTTLE,program_member,'Refinement',0.2,,,,
+BOTTLE,recommended_uses_for_product,'Customer_Search',0.2,recommended_uses_for_product,4,UMP,Optional
+BOTTLE,sport_type,'Refinement',0.2,sport_type,1,UMP,Optional
+BOTTLE,style,'Refinement',0.2,style,2,UMP,Required
+CELLULAR_PHONE, battery_average_life,'FAQ',0.2,,,,
+BOOKEND, number_of_pieces,'FAQ',0.2,,,,
+BOOKEND, item_use,'Customer_Search',0.2,,,,
+BOOKEND, item_usage,'Customer_Search',0.2,,,,
+BLANK_BOOK, cover_material,'Customer_Search',0.2,,,,
+BED_LINEN_SET,closure_type,'Refinement',0.2,,,,
+BED_LINEN_SET,color,'Refinement',0.2,color,8,rac,Required
+BED_LINEN_SET,included_components,'Refinement',0.2,included_components,4,UMP,Optional
+BED_LINEN_SET,number_of_pieces,'Refinement',0.2,number_of_pieces,8,rac,Optional
+BED_LINEN_SET,occasion_type,'Refinement',0.2,occasion_type,4,UMP,Optional
+BED_LINEN_SET,pattern,'Refinement',0.2,pattern,8,rac,Required
+BED_LINEN_SET,seasons,'Refinement',0.2,seasons,2,rac,Optional
+BED_LINEN_SET,sheet_type,'Customer_Search',0.2,,,,
+BED_LINEN_SET,special_feature,'Refinement',0.2,special_feature,4,rac,Optional
+BED_LINEN_SET,theme,'Refinement',0.2,theme,2,UMP,Optional
+BED_LINEN_SET,thread_count,'FAQ',0.2,,,,
+BLANK_BOOK, style,'Customer_Search',0.2,,,,
+BOOKEND, item_depth_width_height,'Customer_Search',0.2,,,,
+BLANK_BOOK, theme,'Customer_Search',0.2,,,,
+BLANK_BOOK,color,'Refinement',0.2,color,8,UMP,Required
+BLANK_BOOK,item_length_width_height_width,'Refinement',0.2,,,,
+BLANK_BOOK,item_length_width_length,'Refinement',0.2,,,,
+BLANK_BOOK,item_length_width_thickness,'Customer_Search',0.2,item_length_width_thickness,4,UMP,Required
+BLANK_BOOK,item_length_width_width,'Refinement',0.2,,,,
+BLANK_BOOK,notebook_type,'Customer_Search',0.2,,,,
+BLANK_BOOK,program_member,'Refinement',0.2,,,,
+BLANK_BOOK,special_feature,'Refinement',0.2,special_feature,4,UMP,Optional
+BLANK_BOOK,theme,'Customer_Search',0.2,theme,8,UMP,Optional
+BOOKEND, color,'FAQ',0.2,,,,
+ELECTRONIC_CABLE,outer_material,'Refinement',0.2,,,,
+ELECTRONIC_CABLE,special_feature,'FAQ',0.2,special_feature,8,UMP,Optional
+NUT_AND_SEED,allergen_information,'FAQ',0.2,allergen_information,8,UMP,Optional
+INSECT_REPELLENT,product_type,'Customer_Search',0.2,,,,
+INSECT_REPELLENT,scent,'Customer_Search',0.2,scent,4,rac,Required
+INSTALLATION_SERVICES,AC Servicing,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,Brand,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,Capacity,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,Cooling Capacity,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,Energy Efficiency,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,Material,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,Service Type,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,ac,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,capacity,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,service,'Customer_Search',0.2,,,,
+INSTALLATION_SERVICES,window ac,'Customer_Search',0.2,,,,
+LAUNDRY_DETERGENT, specific_uses_for_product,'FAQ',0.2,,,,
+LAUNDRY_DETERGENT,allergen_information,'FAQ',0.2,allergen_information,4,UMP,Optional
+LAUNDRY_DETERGENT,detergent_type,'Customer_Search',0.2,,,,
+LAUNDRY_DETERGENT,item_form,'Customer_Search',0.2,item_form,8,rac,Required
+LAUNDRY_DETERGENT,product_line,'Customer_Search',0.2,,,,
+LAUNDRY_DETERGENT,product_type,'Customer_Search',0.2,,,,
+LAUNDRY_DETERGENT,scent,'FAQ',0.2,scent,8,rac,Required
+LAUNDRY_DETERGENT,specific_uses_for_product,'FAQ',0.2,specific_uses_for_product,4,rac,Optional
+LIGHT_BULB, bulb_base,'Customer_Search',0.2,,,,
+LIGHT_BULB, bulb_shape_size,'Customer_Search',0.2,,,,
+LIGHT_BULB, light_type,'Customer_Search',0.2,,,,
+LIGHT_BULB, power_source_type,'Customer_Search',0.2,,,,
+LIGHT_BULB, wattage,'Customer_Search',0.2,,,,
+INSECT_REPELLENT,safety_warning,'FAQ',0.2,safety_warning,4,UMP,Optional
+INSECT_REPELLENT,item_volume,'Customer_Search',0.2,item_volume,4,rac,Optional
+FOOD_STORAGE_CONTAINER, container_shape,'Customer_Search',0.2,,,,
+INSECT_REPELLENT,item_form,'Customer_Search',0.2,item_form,4,rac,Required
+HEALTH_PERSONAL_CARE,personal care,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,physiotherapy,'Customer_Search',0.2,,,,
+HERB, specialty,'Customer_Search',0.2,,,,
+HERB,diet_type,'FAQ',0.2,diet_type,8,UMP,Optional
+HERB,ingredient,'Customer_Search',0.2,,,,
+HERB,produce_type,'Customer_Search',0.2,,,,
+HERB,spice,'Customer_Search',0.2,,,,
+HERB,spice_form,'Customer_Search',0.2,,,,
+HERB,spice_type,'Customer_Search',0.2,,,,
+HERB,unit_count,'FAQ',0.2,unit_count,8,mac,Required
+INCONTINENCE_PROTECTOR, age_group,'Customer_Search',0.2,,,,
+INCONTINENCE_PROTECTOR, age_range_description,'Customer_Search',0.2,,,,
+INCONTINENCE_PROTECTOR, incontinence_protector_type,'FAQ',0.2,,,,
+INCONTINENCE_PROTECTOR, size,'FAQ',0.2,,,,
+INCONTINENCE_PROTECTOR, target_gender,'Customer_Search',0.2,,,,
+INCONTINENCE_PROTECTOR,diaper_size,'Customer_Search',0.2,,,,
+INCONTINENCE_PROTECTOR,diaper_type,'Customer_Search',0.2,,,,
+INCONTINENCE_PROTECTOR,material_type_free,'Refinement',0.2,material_type_free,4,rac,Optional
+INCONTINENCE_PROTECTOR,program_member,'Refinement',0.2,,,,
+INSECT_REPELLENT, item_form,'Customer_Search',0.2,,,,
+INSECT_REPELLENT, number_of_items,'Customer_Search',0.2,,,,
+INSECT_REPELLENT, product_type,'Customer_Search',0.2,,,,
+INSECT_REPELLENT, target_pest,'Customer_Search',0.2,,,,
+INSECT_REPELLENT,brand,'Customer_Search',0.2,brand,8,UMP,Required
+INSECT_REPELLENT,ingredients,'FAQ',0.2,ingredients,4,rac,Optional
+LIGHT_BULB,brand,'Customer_Search',0.2,brand,8,UMP,Required
+LIGHT_BULB,cap_type,'Refinement',0.2,,,,
+LIGHT_BULB,connectivity_protocol,'Refinement',0.2,connectivity_protocol,2,,
+LIGHT_BULB,connectivity_technology,'FAQ',0.2,connectivity_technology,4,UMP,Optional
+NON_RIDING_TOY_VEHICLE, toy_vehicle_form,'Customer_Search',0.2,,,,
+NON_RIDING_TOY_VEHICLE,batteries_included,'FAQ',0.2,batteries_included,4,UMP,Required
+NON_RIDING_TOY_VEHICLE,control_method,'Refinement',0.2,,,,
+NON_RIDING_TOY_VEHICLE,material,'FAQ',0.2,material,8,rac,Required
+NON_RIDING_TOY_VEHICLE,maximum_range,'Refinement',0.2,,,,
+NON_RIDING_TOY_VEHICLE,model_name,'Customer_Search',0.2,model_name,4,UMP,Required
+NON_RIDING_TOY_VEHICLE,program_member,'Refinement',0.2,,,,
+NON_RIDING_TOY_VEHICLE,remote_control_type,'Customer_Search',0.2,,,,
+NON_RIDING_TOY_VEHICLE,scale_name,'Refinement',0.2,scale_name,4,UMP,Optional
+NON_RIDING_TOY_VEHICLE,subject_character,'Customer_Search',0.2,subject_character,8,UMP,Optional
+NON_RIDING_TOY_VEHICLE,toy_vehicle_type,'Customer_Search',0.2,,,,
+NUTRITIONAL_SUPPLEMENT, primary_supplement_type,'Customer_Search',0.2,,,,
+NUTRITIONAL_SUPPLEMENT, target_gender,'Customer_Search',0.2,,,,
+NUTRITIONAL_SUPPLEMENT,brand,'Customer_Search',0.2,brand,8,UMP,Required
+NUTRITIONAL_SUPPLEMENT,diet_type,'FAQ',0.2,diet_type,4,UMP,Optional
+NUTRITIONAL_SUPPLEMENT,item_form,'Customer_Search',0.2,item_form,8,rac,Required
+NUTRITIONAL_SUPPLEMENT,item_weight,'Customer_Search',0.2,item_weight,8,rac,Required
+NUTRITIONAL_SUPPLEMENT,primary_supplement_type,'Customer_Search',0.2,primary_supplement_type,8,UMP,Optional
+NUTRITIONAL_SUPPLEMENT,product_benefit,'Customer_Search',0.2,product_benefit,4,UMP,Optional
+NUTRITIONAL_SUPPLEMENT,product_type,'Customer_Search',0.2,,,,
+NUTRITIONAL_SUPPLEMENT,serving_recommendation,'FAQ',0.2,serving_recommendation,4,UMP,Optional
+NUTRITIONAL_SUPPLEMENT,special_ingredients,'Customer_Search',0.2,special_ingredients,4,UMP,Optional
+NUTRITIONAL_SUPPLEMENT,supplement_type,'Customer_Search',0.2,,,,
+NUTRITIONAL_SUPPLEMENT,target_audience,'Customer_Search',0.2,,,,
+NUT_AND_SEED, item_weight,'Customer_Search',0.2,,,,
+NON_RIDING_TOY_VEHICLE, subject_character,'Customer_Search',0.2,,,,
+NON_RIDING_TOY_VEHICLE, age_range_description,'Customer_Search',0.2,,,,
+MOBILE_APPLICATION,samsung m32,'FAQ',0.2,,,,
+MASSAGER, target_use_body_part,'Customer_Search',0.2,,,,
+LIGHT_BULB,controller_type,'Refinement',0.2,controller_type,4,UMP,Optional
+LIGHT_BULB,incandescent_equivalent_wattage,'Customer_Search',0.2,incandescent_equivalent_wattage,8,UMP,Required
+LIGHT_BULB,indoor_outdoor_usage,'FAQ',0.2,indoor_outdoor_usage,4,UMP,Optional
+LIGHT_BULB,item_width_height_height,'Refinement',0.2,,,,
+LIGHT_BULB,item_width_height_width,'Refinement',0.2,,,,
+ABIS_BOOK, series_title,'Customer_Search',0.2,,,,
+LIGHT_BULB,specific_uses_for_product,'FAQ',0.2,specific_uses_for_product,8,UMP,Optional
+MASSAGER, color,'Customer_Search',0.2,,,,
+MASSAGER, massager_form,'Customer_Search',0.2,,,,
+MASSAGER, power_source_type,'Customer_Search',0.2,,,,
+MASSAGER, special_feature,'Customer_Search',0.2,,,,
+MASSAGER,color,'Customer_Search',0.2,color,4,rac,Required
+MOBILE_APPLICATION,flight,'Customer_Search',0.2,,,,
+MASSAGER,item_length_width_height,'FAQ',0.2,item_length_width_height,4,UMP,Required
+MASSAGER,massager_form,'Customer_Search',0.2,massager_form,4,UMP,Optional
+MASSAGER,power_source_type,'FAQ',0.2,power_source_type,8,UMP,Optional
+MASSAGER,product_benefit,'Refinement',0.2,product_benefit,2,,
+MASSAGER,product_grade,'Refinement',0.2,product_grade,2,,
+MASSAGER,program_member,'Refinement',0.2,,,,
+MOBILE_APPLICATION, 1GB RAM,'FAQ',0.2,,,,
+MOBILE_APPLICATION,3GB RAM,'FAQ',0.2,,,,
+MOBILE_APPLICATION,BR 24010,'FAQ',0.2,,,,
+MOBILE_APPLICATION,Storage type,'FAQ',0.2,,,,
+MOBILE_APPLICATION,Travel Category,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Product Type,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Product Category,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Personal Care Appliance,'Customer_Search',0.2,,,,
+HAIR_DRYER,special_feature,'FAQ',0.2,special_feature,4,UMP,Optional
+GIFT_CARD,EMI/Payment Options,'Customer_Search',0.2,,,,
+GIFT_CARD,End of season sale,'FAQ',0.2,,,,
+GIFT_CARD,Gift Card,'Customer_Search',0.2,,,,
+GIFT_CARD,Gift Card Option,'Customer_Search',0.2,,,,
+GIFT_CARD,Gift Cards,'Customer_Search',0.2,,,,
+GIFT_CARD,Gift Options,'Customer_Search',0.2,,,,
+GIFT_CARD,One time card limit breached,'FAQ',0.2,,,,
+GIFT_CARD,Payment Method,'Customer_Search',0.2,,,,
+GIFT_CARD,gift card,'Customer_Search',0.2,,,,
+HAIR_DRYER, hair_dryer_type,'Customer_Search',0.2,,,,
+HAIR_DRYER, included_components,'FAQ',0.2,,,,
+HAIR_DRYER, material,'FAQ',0.2,,,,
+HAIR_DRYER, model_name,'Customer_Search',0.2,,,,
+HAIR_DRYER, power_source_type,'Customer_Search',0.2,,,,
+HAIR_DRYER, product_line,'Customer_Search',0.2,,,,
+HAIR_DRYER, recommended_uses_for_product,'Customer_Search',0.2,,,,
+HAIR_DRYER, special_feature,'Customer_Search',0.2,,,,
+HAIR_DRYER, wattage,'Customer_Search',0.2,,,,
+HAIR_DRYER,brand,'Customer_Search',0.2,brand,8,UMP,Required
+HAIR_DRYER,color,'FAQ',0.2,color,8,rac,Required
+HAIR_DRYER,gender,'Customer_Search',0.2,,,,
+HAIR_DRYER,hair_type,'Customer_Search',0.2,hair_type,4,rac,Optional
+HAIR_DRYER,included_components,'FAQ',0.2,included_components,4,rac,Optional
+HAIR_DRYER,power_source_type,'FAQ',0.2,power_source_type,8,rac,Optional
+HAIR_DRYER,product_line,'Customer_Search',0.2,,,,
+GIFT_CARD,Category Type,'Customer_Search',0.2,,,,
+GIFT_CARD,Brand,'Customer_Search',0.2,,,,
+GIFT_CARD,3000,'FAQ',0.2,,,,
+FRUIT, ingredients,'Customer_Search',0.2,,,,
+FOOD_STORAGE_CONTAINER, item_length_width_height,'Customer_Search',0.2,,,,
+FOOD_STORAGE_CONTAINER, material,'Customer_Search',0.2,,,,
+FOOD_STORAGE_CONTAINER, recommended_uses_for_product,'Customer_Search',0.2,,,,
+FOOD_STORAGE_CONTAINER,brand,'Customer_Search',0.2,brand,8,UMP,Required
+FOOD_STORAGE_CONTAINER,capacity,'FAQ',0.2,capacity,8,rac,Required
+FOOD_STORAGE_CONTAINER,color,'Refinement',0.2,color,8,rac,Required
+FOOD_STORAGE_CONTAINER,container_shape,'Customer_Search',0.2,,,,
+FOOD_STORAGE_CONTAINER,microwave safe,'FAQ',0.2,,,,
+FOOD_STORAGE_CONTAINER,number_of_pieces,'Refinement',0.2,,,,
+FOOD_STORAGE_CONTAINER,product_type,'Customer_Search',0.2,,,,
+FOOD_STORAGE_CONTAINER,program_member,'Refinement',0.2,,,,
+FRUIT, item_package_dimensions,'Customer_Search',0.2,,,,
+GIFT_CARD, gift,'Customer_Search',0.2,,,,
+FRUIT, item_weight,'Customer_Search',0.2,,,,
+FRUIT,brand,'Customer_Search',0.2,brand,8,UMP,Required
+FRUIT,diet_type,'FAQ',0.2,diet_type,4,UMP,Optional
+FRUIT,directions,'FAQ',0.2,directions,4,UMP,Optional
+FRUIT,fruit_type,'Customer_Search',0.2,,,,
+FRUIT,item_package_dimensions,'Customer_Search',0.2,item_package_dimensions,4,UMP,Required
+FRUIT,item_weight,'Customer_Search',0.2,item_weight,8,rac,Required
+FRUIT,nutritional_info,'FAQ',0.2,nutritional_info,4,UMP,Optional
+FRUIT,product_type,'Customer_Search',0.2,,,,
+FRUIT,quantity,'Customer_Search',0.2,,,,
+GIFT_CARD, Product Type,'Customer_Search',0.2,,,,
+HAIR_DRYER,recommended_uses_for_product,'FAQ',0.2,recommended_uses_for_product,4,UMP,Optional
+HAIR_DRYER,wattage,'FAQ',0.2,wattage,8,UMP,Optional
+HEALTH_PERSONAL_CARE,Personal Care,'Customer_Search',0.2,,,,
+HAIR_STYLING_AGENT, hair_type,'Customer_Search',0.2,,,,
+HEADPHONES,battery_average_life,'FAQ',0.2,,,,
+HEADPHONES,battery_capacity,'FAQ',0.2,,,,
+HEADPHONES,battery_charge_time,'FAQ',0.2,,,,
+HEADPHONES,brand,'Customer_Search',0.2,brand,8,rac,Required
+HEADPHONES,cable_feature,'Refinement',0.2,,,,
+HEADPHONES,carrying_case_battery_average_life,'FAQ',0.2,,,,
+HEADPHONES,carrying_case_battery_capacity,'FAQ',0.2,,,,
+HEADPHONES,color,'Refinement',0.2,color,8,rac,Required
+HEADPHONES,compatible_devices,'Refinement',0.2,compatible_devices,8,rac,Optional
+HEADPHONES,condition,'FAQ',0.2,condition,4,UMP,CONFIGURED ONLY IN 'VENDOR' SCOPE
+HEADPHONES,control_method,'Refinement',0.2,control_method,4,UMP,Optional
+HEADPHONES,control_type,'Refinement',0.2,control_type,8,rac,Optional
+HEADPHONES,earpiece_shape,'Refinement',0.2,earpiece_shape,2,,
+HEADPHONES,headphones_ear_placement,'Customer_Search',0.2,headphones_ear_placement,8,UMP,Optional
+HEADPHONES,headphones_jack,'Refinement',0.2,headphones_jack,8,rac,Optional
+HEADPHONES,included_components,'Refinement',0.2,included_components,8,rac,Required
+HEADPHONES,noise_control,'FAQ',0.2,noise_control,8,UMP,Optional
+HEADPHONES,warranty_description,'FAQ',0.2,warranty_description,4,rac,Required
+HEADPHONES,water_resistance_level,'FAQ',0.2,water_resistance_level,4,UMP,Optional
+HEADPHONES,wireless_communication_technology,'FAQ',0.2,wireless_communication_technology,8,rac,Optional
+HEALTH_PERSONAL_CARE, men,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Brand,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Health &amp; Personal Care,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Material,'Customer_Search',0.2,,,,
+HEALTH_PERSONAL_CARE,Oral Care,'Customer_Search',0.2,,,,
+HEADPHONES,age_range_description,'Refinement',0.2,age_range_description,8,UMP,Optional
+HEADPHONES, wireless_communication_technology,'Customer_Search',0.2,,,,
+HEADPHONES, model_name,'Customer_Search',0.2,,,,
+HAIR_TRIMMER, recommended_uses_for_product,'Customer_Search',0.2,,,,
+HAIR_STYLING_AGENT, item_form,'Customer_Search',0.2,,,,
+HAIR_STYLING_AGENT, unit_count,'FAQ',0.2,,,,
+HAIR_STYLING_AGENT,liquid_volume,'FAQ',0.2,liquid_volume,4,UMP,Required
+HAIR_STYLING_AGENT,product_line,'Customer_Search',0.2,,,,
+HAIR_STYLING_AGENT,product_type,'Customer_Search',0.2,,,,
+HAIR_STYLING_AGENT,program_member,'Refinement',0.2,,,,
+HAIR_STYLING_AGENT,unit_count,'FAQ',0.2,unit_count,4,UMP,Required
+HAIR_TRIMMER, item_weight,'Customer_Search',0.2,,,,
+HAIR_TRIMMER, material,'Customer_Search',0.2,,,,
+HAIR_TRIMMER, power_source_type,'Customer_Search',0.2,,,,
+HAIR_TRIMMER, product_type,'Customer_Search',0.2,,,,
+HAIR_TRIMMER, target_audience=Men,'Customer_Search',0.2,,,,
+HEADPHONES, headphones_jack,'Customer_Search',0.2,,,,
+HAIR_TRIMMER, target_gender,'Customer_Search',0.2,,,,
+HAIR_TRIMMER,material,'Refinement',0.2,material,4,rac,Required
+HAIR_TRIMMER,product_line,'Customer_Search',0.2,,,,
+HAIR_TRIMMER,program_member,'Refinement',0.2,,,,
+HAIR_TRIMMER,target_audience,'Customer_Search',0.2,target_audience,2,,
+HAIR_TRIMMER,target_gender,'Refinement',0.2,target_gender,8,rac,Optional
+HAIR_TRIMMER,warranty_description,'FAQ',0.2,warranty_description,4,rac,Optional
+HEADPHONES, carrying_case_battery_charge_time,'FAQ',0.2,,,,
+HEADPHONES, connectivity_technology,'Customer_Search',0.2,,,,
+HEADPHONES, headphones_ear_placement,'Customer_Search',0.2,,,,
+HEADPHONES, headphones_form_factor,'Customer_Search',0.2,,,,
+WRITING_INSTRUMENT,writing_instrument_type,'Customer_Search',0.2,,,,
